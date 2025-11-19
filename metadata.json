@@ -1,0 +1,5 @@
+{
+  "name": "InsightFlow Survey Analyzer",
+  "description": "A professional survey analysis tool that transforms raw text or CSV data into structured insights, personas, and service design recommendations in English and Korean using Gemini AI.",
+  "requestFramePermissions": []
+}
